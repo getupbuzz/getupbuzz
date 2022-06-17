@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on backend and Golang.
+- 📫 How to reach me: [@getupbuzz](https://t.me/getupbuzz) at Telegram.
 
 <!--
 **getupbuzz/getupbuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
